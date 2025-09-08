@@ -1,0 +1,33 @@
+body {
+    background-color: #f8ccea; /* light pink */
+    font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
+}
+h1 {
+    color: #e334c0; /* bright pink */
+   font-size: 30px; 
+   padding: 10px;
+}
+h2 {
+    color: #3a0e43; /* dark purple */
+   font-size: 18px; 
+   padding: 8px;
+}
+p {
+    color: #761f63; /* dark pink */
+    font-size: 16px;
+    padding: 10px;
+}
+ul {
+    color: #e334c0; /* bright pink */
+    font-size: 16px;
+    padding: 10px;
+}
+div {
+    border: 2px solid black; /* black border */
+    padding: 10px;
+    margin-top: 20px;
+    width: fit-content;
+    height: fit-content;
+    background-color:#f156d0 ;
+    margin: 20px 0;
+}
