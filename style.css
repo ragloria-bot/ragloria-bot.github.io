@@ -1,6 +1,7 @@
 body {
     background-color: #f8ccea; /* light pink */
     font-family: Arial Rounded MT Bold, Arial, sans-serif; /* rounded font */
+    line-height: 1.6;
 }
 h1 {
     color: #e334c0; /* bright pink */
@@ -16,11 +17,13 @@ p {
     color: #761f63; /* dark pink */
     font-size: 16px;
     padding: 10px;
+    line-height: 1.7;
 }
 ul {
     color: #e334c0; /* bright pink */
     font-size: 16px;
     padding: 10px;
+    line-height: 1.7;
 }
 div {
     border: 2px solid black; /* black border */
