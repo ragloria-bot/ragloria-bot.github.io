@@ -12,7 +12,7 @@ h2 {
     color: #3a0e43; /* dark purple */
    font-size: 18px; 
    padding: 8px;
-  margin-bottom: 4px; /* reduce space below h2 */
+  margin-bottom: 8px; /* reduce space below h2 */
 }
 p {
     color: #761f63; /* dark pink */
@@ -25,7 +25,7 @@ ul {
     font-size: 16px;
     padding: 10px;
     line-height: 1.0;
-  margin-top: 4px; /* reduce space above ul */
+  margin-top: 8px; /* reduce space above ul */
 }
 div {
     border: 2px solid black; /* black border */
