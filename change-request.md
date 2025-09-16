@@ -6,7 +6,7 @@
 
 ### Prosposed Change: 
 
-Add new feature of embedded map from Windy to customize location.
+Add a new feature of embedded map from Windy to customize location.
 
 ### Reason for the Change: 
 
