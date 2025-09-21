@@ -9,18 +9,23 @@
 Add a new feature to the website of an embedded map from Windy to customize location. Key benefits of enriched user engagement, enhanced decision-making for outdoor adventures, and the convenience of location-specific weather updates. Enjoy customizable features that let you choose specific weather layers and focus on the areas that matter most to you, transforming your connection with the world around you.
 
 - __Enhanced User Experience__:  
+
 Incorporate real-time weather data and interactive map features on your website to create a valuable resource for your visitors.  
 
-- __Real-Time Data & Forecasting__: 
+- __Real-Time Data & Forecasting__:  
+
 Offers up-to-date information on current weather conditions, including time, wind speed, precipitation, and future forecasts through features like a time slider.  
 
-- __Customization and Control__: 
+- __Customization and Control__:  
+
 Personalize the embedded map to highlight specific geographic areas and select which weather layers you'd like to display.  
 
-- __Increased Website Engagement__:
+- __Increased Website Engagement__:  
+
 Offering dynamic weather information can enhance user engagement, keeping visitors on the website longer and enriching their overall experience.  
 
-- __Location-Specific Information__:
+- __Location-Specific Information__:  
+
 Allow users to easily access weather information that is specific to their location or any point of interest featured on your website. 
 
 ### Reason for the Change: 
